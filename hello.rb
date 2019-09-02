@@ -325,10 +325,11 @@ class People
 end
 
 class ChildPeople < People
-  def self.yuna
+  def self.taiga
     p "私は目からビームが出せます"
   end
 
 end
 
-ChildPeople.yuna
+ChildPeople.taiga
+
