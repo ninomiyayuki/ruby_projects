@@ -333,3 +333,5 @@ end
 
 ChildPeople.taiga
 
+Created database 'pictgram_development'
+Created database 'pictgram_test'
